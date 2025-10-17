@@ -1,2 +1,12 @@
 # OOP---1
-OOP CLASS
+LibrarySystem/
+│
+├── LibrarySystem.java     ← Main controller
+├── Person.java
+├── User.java
+├── Book.java
+├── Transaction.java
+│
+├── users.txt
+├── books.txt
+└── transactions.txt
